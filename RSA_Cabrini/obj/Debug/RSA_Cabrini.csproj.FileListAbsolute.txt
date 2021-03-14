@@ -1,0 +1,10 @@
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\obj\Debug\RSA_Cabrini.csprojAssemblyReference.cache
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\obj\Debug\RSA_Cabrini.Properties.Resources.resources
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\obj\Debug\RSA_Cabrini.RSA_Cabrini.resources
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\obj\Debug\RSA_Cabrini.csproj.GenerateResource.cache
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\obj\Debug\RSA_Cabrini.csproj.CoreCompileInputs.cache
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\bin\Debug\RSA_Cabrini.exe.config
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\bin\Debug\RSA_Cabrini.exe
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\bin\Debug\RSA_Cabrini.pdb
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\obj\Debug\RSA_Cabrini.exe
+C:\Users\Leticia Lima\Source\Repos\RSA_Cabrini\RSA_Cabrini\obj\Debug\RSA_Cabrini.pdb
